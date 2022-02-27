@@ -45,5 +45,7 @@ Realizar validaciones a los campos, por tipo de dato y otros criterios.
 
 Realizar mejoras al diseño visual.
 
-Realizar diferentes tipos de pruebas, funcionamiento, rendimiento, etc
+Realizar diferentes tipos de pruebas, unitarias, funcionamiento, rendimiento, etc
+
+Revisar detalladamente normalizacion y buenas practicas.
 
